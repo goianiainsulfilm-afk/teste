@@ -1,0 +1,4 @@
+# Superpowers subagent skills (dispatching-parallel-agents, subagent-driven-development)
+# need Codex's multi-agent tools.
+[features]
+multi_agent = true
